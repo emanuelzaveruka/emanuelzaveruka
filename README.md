@@ -27,6 +27,6 @@
 <summary>Mais...</summary>
 <div>
   <a href="https://github.com/emanuelzaveruka">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emanuelzaveruka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelzaveruka&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emanuelzaveruka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" margin-right="10px"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelzaveruka&layout=compact&langs_count=16&theme=dracula" margin-right="10px"/>
 </div>
 </details>
