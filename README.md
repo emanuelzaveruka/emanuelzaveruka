@@ -17,8 +17,8 @@
   :envelope: me contacte: :arrow_down:
 </p>
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:emanuelzaveruka@gmail.com" /></a>  <a href="https://www.linkedin.com/in/emanuel-zaveruka-588148212" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" /></a>
+  <a href="mailto:emanuelzaveruka@gmail.com" target="_blank" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:emanuelzaveruka@gmail.com" /></a>  <a href="https://www.linkedin.com/in/emanuel-zaveruka-588148212" target="_blank" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=/" /></a>
 
 </p>  
 <br>
